@@ -15,9 +15,44 @@ hola 123 juan
 hola juan 123 o _ 123
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
 1
 2
 3
 4
 5
 6
+=======
+hola estos son mis cambios (Juan)
+>>>>>>> 74e2ed90a56a5d43b553b60c3c6a718b3871deaf
